@@ -1,0 +1,24 @@
+com/task/test/dialect/SQLiteMetadataBuilderInitializer.java
+ com.task.test.dialect.SQLiteMetadataBuilderInitializer
+ com.task.test.dialect.SQLiteMetadataBuilderInitializer$1
+com/task/test/errors/ProductNotFoundException.java
+ com.task.test.errors.ProductNotFoundException
+com/task/test/dialect/SQLiteDialectIdentityColumnSupport.java
+ com.task.test.dialect.SQLiteDialectIdentityColumnSupport
+com/task/test/TestApplication.java
+ com.task.test.TestApplication
+com/task/test/ProductController.java
+ com.task.test.ProductController
+com/task/test/data/Product.java
+ com.task.test.data.Product
+com/task/test/dialect/SQLiteDialect.java
+ com.task.test.dialect.SQLiteDialect
+ com.task.test.dialect.SQLiteDialect$1
+ com.task.test.dialect.SQLiteDialect$2
+ com.task.test.dialect.SQLiteDialect$3
+ com.task.test.dialect.SQLiteDialect$4
+ com.task.test.dialect.SQLiteDialect$SQLiteUniqueDelegate
+com/task/test/data/ProductRepository.java
+ com.task.test.data.ProductRepository
+com/task/test/errors/ProductControllerAdvice.java
+ com.task.test.errors.ProductControllerAdvice
